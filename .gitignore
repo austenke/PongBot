@@ -1,0 +1,23 @@
+*~
+*.swp
+.DS_Store
+
+# Python artifacts
+*.pyc
+*.egg-info
+.pydevproject
+
+# Generated files
+bin
+target
+
+# Eclipse files
+.classpath
+.project
+.settings
+.factorypath
+.checkstyle
+
+# IntelliJ files
+.idea/
+*.iml
